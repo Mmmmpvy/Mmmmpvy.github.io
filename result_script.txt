@@ -1,0 +1,1148 @@
+<div> <label class= "original"> 刘备 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 关羽 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> 71%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 9
+</label> <label class= "rate"> 64%
+</label> </div>
+<div> <label class= "original"> 张飞 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 诸葛亮 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 赵云 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 马超 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 25%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 8
+</label> <label class= "rate"> 25%
+</label> </div>
+<div> <label class= "original"> 黄月英 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孙权 </label> <label class= "zhugong_rate"> 19%
+</label> <label class= "zhongchen_rate"> 33%
+</label> <label class= "fanzei_rate"> 53%
+</label> <label class= "neijian_rate"> 7%
+</label> <label class= "times"> 78
+</label> <label class= "rate"> 38%
+</label> </div>
+<div> <label class= "original"> 甘宁 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 6
+</label> <label class= "rate"> 50%
+</label> </div>
+<div> <label class= "original"> 吕蒙 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 黄盖 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 30%
+</label> <label class= "fanzei_rate"> 85%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 32
+</label> <label class= "rate"> 57%
+</label> </div>
+<div> <label class= "original"> 周瑜 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 大乔 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 陆逊 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孙尚香 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 100%
+</label> <label class= "times"> 14
+</label> <label class= "rate"> 63%
+</label> </div>
+<div> <label class= "original"> 曹操 </label> <label class= "zhugong_rate"> 18%
+</label> <label class= "zhongchen_rate"> 100%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 19
+</label> <label class= "rate"> 52%
+</label> </div>
+<div> <label class= "original"> 司马懿 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 夏侯惇 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 33%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 4
+</label> <label class= "rate"> 22%
+</label> </div>
+<div> <label class= "original"> 张辽 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 许褚 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 郭嘉 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 60%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 19
+</label> <label class= "rate"> 30%
+</label> </div>
+<div> <label class= "original"> 甄姬 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 华佗 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 吕布 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 75%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 12
+</label> <label class= "rate"> 50%
+</label> </div>
+<div> <label class= "original"> 貂蝉 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 100%
+</label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 黄忠 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 23
+</label> <label class= "rate"> 33%
+</label> </div>
+<div> <label class= "original"> 魏延 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 夏侯渊 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 曹仁 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 5
+</label> <label class= "rate"> 57%
+</label> </div>
+<div> <label class= "original"> 小乔 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 周泰 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> 33%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 15
+</label> <label class= "rate"> 33%
+</label> </div>
+<div> <label class= "original"> 张角 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 于吉 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 典韦 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 荀彧 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 庞统 </label> <label class= "zhugong_rate"> 100%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 卧龙诸葛 </label> <label class= "zhugong_rate"> 100%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 太史慈 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 庞德 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 颜良文丑 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 袁绍 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 徐晃 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 曹丕 </label> <label class= "zhugong_rate"> 31%
+</label> <label class= "zhongchen_rate"> 80%
+</label> <label class= "fanzei_rate"> 68%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 93
+</label> <label class= "rate"> 58%
+</label> </div>
+<div> <label class= "original"> 孙坚 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 董卓 </label> <label class= "zhugong_rate"> 100%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 祝融 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孟获 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 贾诩 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 33%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 4
+</label> <label class= "rate"> 27%
+</label> </div>
+<div> <label class= "original"> 鲁肃 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张郃 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 邓艾 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 姜维 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 刘禅 </label> <label class= "zhugong_rate"> 13%
+</label> <label class= "zhongchen_rate"> 10%
+</label> <label class= "fanzei_rate"> 65%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 38
+</label> <label class= "rate"> 42%
+</label> </div>
+<div> <label class= "original"> 孙策 </label> <label class= "zhugong_rate"> 50%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张昭张纮 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 33%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 左慈 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 13
+</label> <label class= "rate"> 25%
+</label> </div>
+<div> <label class= "original"> 群蔡文姬 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 严颜 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 王平 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 60%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 7
+</label> <label class= "rate"> 34%
+</label> </div>
+<div> <label class= "original"> 陆绩 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孙亮 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 王基 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 蒯良蒯越 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 许攸 </label> <label class= "zhugong_rate"> 22%
+</label> <label class= "zhongchen_rate"> 30%
+</label> <label class= "fanzei_rate"> 84%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 99
+</label> <label class= "rate"> 52%
+</label> </div>
+<div> <label class= "original"> 卢植 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 陈到 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 诸葛瞻 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 90%
+</label> <label class= "neijian_rate"> 7%
+</label> <label class= "times"> 32
+</label> <label class= "rate"> 61%
+</label> </div>
+<div> <label class= "original"> 周妃 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 陆抗 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> 100%
+</label> <label class= "times"> 4
+</label> <label class= "rate"> 73%
+</label> </div>
+<div> <label class= "original"> 郝昭 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 33%
+</label> <label class= "fanzei_rate"> 48%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 29
+</label> <label class= "rate"> 43%
+</label> </div>
+<div> <label class= "original"> 毌丘俭 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 袁术 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张绣 </label> <label class= "zhugong_rate"> 60%
+</label> <label class= "zhongchen_rate"> 40%
+</label> <label class= "fanzei_rate"> 59%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 69
+</label> <label class= "rate"> 47%
+</label> </div>
+<div> <label class= "original"> 神关羽 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 神吕蒙 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 25%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 6
+</label> <label class= "rate"> 20%
+</label> </div>
+<div> <label class= "original"> 神周瑜 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 14%
+</label> <label class= "fanzei_rate"> 65%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 42
+</label> <label class= "rate"> 41%
+</label> </div>
+<div> <label class= "original"> 神诸葛亮 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 22%
+</label> <label class= "fanzei_rate"> 60%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 28
+</label> <label class= "rate"> 36%
+</label> </div>
+<div> <label class= "original"> 神曹操 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 神吕布 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 13%
+</label> <label class= "fanzei_rate"> 40%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 16
+</label> <label class= "rate"> 23%
+</label> </div>
+<div> <label class= "original"> 神赵云 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 75%
+</label> <label class= "neijian_rate"> 33%
+</label> <label class= "times"> 13
+</label> <label class= "rate"> 48%
+</label> </div>
+<div> <label class= "original"> 神司马懿 </label> <label class= "zhugong_rate"> 40%
+</label> <label class= "zhongchen_rate"> 25%
+</label> <label class= "fanzei_rate"> 29%
+</label> <label class= "neijian_rate"> 11%
+</label> <label class= "times"> 25
+</label> <label class= "rate"> 27%
+</label> </div>
+<div> <label class= "original"> 神刘备 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 17%
+</label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 15
+</label> <label class= "rate"> 50%
+</label> </div>
+<div> <label class= "original"> 神陆逊 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 31%
+</label> <label class= "fanzei_rate"> 74%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 68
+</label> <label class= "rate"> 45%
+</label> </div>
+<div> <label class= "original"> 神张辽 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 100%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 5
+</label> <label class= "rate"> 57%
+</label> </div>
+<div> <label class= "original"> 神甘宁 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> 70%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 27
+</label> <label class= "rate"> 48%
+</label> </div>
+<div> <label class= "original"> 法正 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 43%
+</label> <label class= "fanzei_rate"> 72%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 55
+</label> <label class= "rate"> 53%
+</label> </div>
+<div> <label class= "original"> 马谡 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 徐庶 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 吴国太 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 凌统 </label> <label class= "zhugong_rate"> 33%
+</label> <label class= "zhongchen_rate"> 38%
+</label> <label class= "fanzei_rate"> 70%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 208
+</label> <label class= "rate"> 49%
+</label> </div>
+<div> <label class= "original"> 徐盛 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 曹植 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 75%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 4
+</label> <label class= "rate"> 75%
+</label> </div>
+<div> <label class= "original"> 张春华 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 43%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 8
+</label> <label class= "rate"> 29%
+</label> </div>
+<div> <label class= "original"> 于禁 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 23%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 13
+</label> <label class= "rate"> 23%
+</label> </div>
+<div> <label class= "original"> 陈宫 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 高顺 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 关兴张苞 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 33%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 50%
+</label> <label class= "times"> 6
+</label> <label class= "rate"> 74%
+</label> </div>
+<div> <label class= "original"> 廖化 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 马岱 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 步练师 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 程普 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 韩当 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 17%
+</label> <label class= "fanzei_rate"> 61%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 52
+</label> <label class= "rate"> 39%
+</label> </div>
+<div> <label class= "original"> 荀攸 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 王异 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 曹彰 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 钟会 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> 17%
+</label> <label class= "times"> 8
+</label> <label class= "rate"> 3%
+</label> </div>
+<div> <label class= "original"> 刘表 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 6
+</label> <label class= "rate"> 0%
+</label> </div>
+<div> <label class= "original"> 曹冲 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 9
+</label> <label class= "rate"> 40%
+</label> </div>
+<div> <label class= "original"> 郭淮 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 70%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 13
+</label> <label class= "rate"> 40%
+</label> </div>
+<div> <label class= "original"> 满宠 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 4
+</label> <label class= "rate"> 50%
+</label> </div>
+<div> <label class= "original"> 关平 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 36%
+</label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 29
+</label> <label class= "rate"> 56%
+</label> </div>
+<div> <label class= "original"> 简雍 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 44%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 10
+</label> <label class= "rate"> 30%
+</label> </div>
+<div> <label class= "original"> 刘封 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 潘璋马忠 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 虞翻 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 朱然 </label> <label class= "zhugong_rate"> 29%
+</label> <label class= "zhongchen_rate"> 40%
+</label> <label class= "fanzei_rate"> 72%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 84
+</label> <label class= "rate"> 50%
+</label> </div>
+<div> <label class= "original"> 伏皇后 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 72%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 20
+</label> <label class= "rate"> 48%
+</label> </div>
+<div> <label class= "original"> 李儒 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 5
+</label> <label class= "rate"> 67%
+</label> </div>
+<div> <label class= "original"> 曹真 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 59%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 27
+</label> <label class= "rate"> 29%
+</label> </div>
+<div> <label class= "original"> 韩浩史涣 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 陈群 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 吴懿 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 44%
+</label> <label class= "fanzei_rate"> 80%
+</label> <label class= "neijian_rate"> 14%
+</label> <label class= "times"> 21
+</label> <label class= "rate"> 60%
+</label> </div>
+<div> <label class= "original"> 周仓 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 6
+</label> <label class= "rate"> 38%
+</label> </div>
+<div> <label class= "original"> 张松 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孙鲁班 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 朱桓 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 顾雍 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 沮授 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 蔡夫人 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 曹叡 </label> <label class= "zhugong_rate"> 21%
+</label> <label class= "zhongchen_rate"> 9%
+</label> <label class= "fanzei_rate"> 52%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 86
+</label> <label class= "rate"> 31%
+</label> </div>
+<div> <label class= "original"> 曹休 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 88%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 12
+</label> <label class= "rate"> 50%
+</label> </div>
+<div> <label class= "original"> 钟繇 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 9
+</label> <label class= "rate"> 29%
+</label> </div>
+<div> <label class= "original"> 刘谌 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 夏侯氏 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张嶷 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孙休 </label> <label class= "zhugong_rate"> 27%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 43%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 25
+</label> <label class= "rate"> 28%
+</label> </div>
+<div> <label class= "original"> 朱治 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 全琮 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 公孙渊 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 56%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 16
+</label> <label class= "rate"> 44%
+</label> </div>
+<div> <label class= "original"> 郭图逄纪 </label> <label class= "zhugong_rate"> 13%
+</label> <label class= "zhongchen_rate"> 22%
+</label> <label class= "fanzei_rate"> 89%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 41
+</label> <label class= "rate"> 52%
+</label> </div>
+<div> <label class= "original"> 张星彩 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 25%
+</label> <label class= "fanzei_rate"> 42%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 28
+</label> <label class= "rate"> 31%
+</label> </div>
+<div> <label class= "original"> 吴苋 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孙登 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 步骘 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 曹昂 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 7
+</label> <label class= "rate"> 0%
+</label> </div>
+<div> <label class= "original"> 诸葛诞 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 6
+</label> <label class= "rate"> 0%
+</label> </div>
+<div> <label class= "original"> 刘协 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 75%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 12
+</label> <label class= "rate"> 75%
+</label> </div>
+<div> <label class= "original"> 曹节 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 董允 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 36%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 14
+</label> <label class= "rate"> 36%
+</label> </div>
+<div> <label class= "original"> 诸葛瑾 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 严畯 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 李典 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 司马朗 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 杜畿 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 刘焉 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张鲁 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孙乾 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 秦宓 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 薛综 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 潘濬 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 戏志才 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 18%
+</label> <label class= "fanzei_rate"> 57%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 82
+</label> <label class= "rate"> 38%
+</label> </div>
+<div> <label class= "original"> 郭皇后 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 王粲 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 蔡邕 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 蜀孙尚香 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 蜀徐庶 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 吴庞统 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 魏庞德 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 魏蔡文姬 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 魏姜维 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 群黄月英 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 群太史慈 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 李严 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 糜竺 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> 83%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 8
+</label> <label class= "rate"> 72%
+</label> </div>
+<div> <label class= "original"> 马忠 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 周鲂 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 贺齐 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 文聘 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 吕岱 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 刘繇 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 马云禄 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 关银屏 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 7
+</label> <label class= "rate"> 67%
+</label> </div>
+<div> <label class= "original"> 祖茂 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 徐氏 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 57%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 17
+</label> <label class= "rate"> 33%
+</label> </div>
+<div> <label class= "original"> 吕虔 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张梁 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 蹋顿 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 公孙瓒 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 关索 </label> <label class= "zhugong_rate"> 43%
+</label> <label class= "zhongchen_rate"> 24%
+</label> <label class= "fanzei_rate"> 72%
+</label> <label class= "neijian_rate"> 15%
+</label> <label class= "times"> 271
+</label> <label class= "rate"> 49%
+</label> </div>
+<div> <label class= "original"> 赵襄 </label> <label class= "zhugong_rate"> 38%
+</label> <label class= "zhongchen_rate"> 35%
+</label> <label class= "fanzei_rate"> 68%
+</label> <label class= "neijian_rate"> 15%
+</label> <label class= "times"> 324
+</label> <label class= "rate"> 49%
+</label> </div>
+<div> <label class= "original"> 曹婴 </label> <label class= "zhugong_rate"> 18%
+</label> <label class= "zhongchen_rate"> 4%
+</label> <label class= "fanzei_rate"> 58%
+</label> <label class= "neijian_rate"> 7%
+</label> <label class= "times"> 105
+</label> <label class= "rate"> 33%
+</label> </div>
+<div> <label class= "original"> 徐荣 </label> <label class= "zhugong_rate"> 50%
+</label> <label class= "zhongchen_rate"> 27%
+</label> <label class= "fanzei_rate"> 65%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 79
+</label> <label class= "rate"> 45%
+</label> </div>
+<div> <label class= "original"> 鲍三娘 </label> <label class= "zhugong_rate"> 33%
+</label> <label class= "zhongchen_rate"> 38%
+</label> <label class= "fanzei_rate"> 71%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 74
+</label> <label class= "rate"> 49%
+</label> </div>
+<div> <label class= "original"> 张琪瑛 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 33%
+</label> <label class= "fanzei_rate"> 79%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 25
+</label> <label class= "rate"> 54%
+</label> </div>
+<div> <label class= "original"> 曹纯 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 20%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 28
+</label> <label class= "rate"> 10%
+</label> </div>
+<div> <label class= "original"> 司马徽 </label> <label class= "zhugong_rate"> 25%
+</label> <label class= "zhongchen_rate"> 30%
+</label> <label class= "fanzei_rate"> 76%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 91
+</label> <label class= "rate"> 49%
+</label> </div>
+<div> <label class= "original"> 程昱 </label> <label class= "zhugong_rate"> 100%
+</label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> 76%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 29
+</label> <label class= "rate"> 63%
+</label> </div>
+<div> <label class= "original"> 诸葛果 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 孙皓 </label> <label class= "zhugong_rate"> 36%
+</label> <label class= "zhongchen_rate"> 11%
+</label> <label class= "fanzei_rate"> 61%
+</label> <label class= "neijian_rate"> 6%
+</label> <label class= "times"> 98
+</label> <label class= "rate"> 38%
+</label> </div>
+<div> <label class= "original"> 诸葛恪 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 17%
+</label> <label class= "fanzei_rate"> 73%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 21
+</label> <label class= "rate"> 46%
+</label> </div>
+<div> <label class= "original"> 陈琳 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 5
+</label> <label class= "rate"> 29%
+</label> </div>
+<div> <label class= "original"> 杨修 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 100%
+</label> <label class= "fanzei_rate"> 33%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 10
+</label> <label class= "rate"> 56%
+</label> </div>
+<div> <label class= "original"> 兀突骨 </label> <label class= "zhugong_rate"> 33%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 88%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 19
+</label> <label class= "rate"> 48%
+</label> </div>
+<div> <label class= "original"> 士燮 </label> <label class= "zhugong_rate"> 67%
+</label> <label class= "zhongchen_rate"> 25%
+</label> <label class= "fanzei_rate"> 57%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 15
+</label> <label class= "rate"> 43%
+</label> </div>
+<div> <label class= "original"> 张宝 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 灵雎 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 王允 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 大乔小乔 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 群马超 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 蒋干 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 7
+</label> <label class= "rate"> 53%
+</label> </div>
+<div> <label class= "original"> 文鸯 </label> <label class= "zhugong_rate"> 7%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 63%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 56
+</label> <label class= "rate"> 32%
+</label> </div>
+<div> <label class= "original"> 夏侯霸 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 群赵云 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 花鬘 </label> <label class= "zhugong_rate"> 41%
+</label> <label class= "zhongchen_rate"> 37%
+</label> <label class= "fanzei_rate"> 85%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 138
+</label> <label class= "rate"> 57%
+</label> </div>
+<div> <label class= "original"> 皇甫嵩 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 27%
+</label> <label class= "fanzei_rate"> 69%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 64
+</label> <label class= "rate"> 47%
+</label> </div>
+<div> <label class= "original"> 刘琦 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 5
+</label> <label class= "rate"> 0%
+</label> </div>
+<div> <label class= "original"> 辛宪英 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 10
+</label> <label class= "rate"> 43%
+</label> </div>
+<div> <label class= "original"> 王双 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 25%
+</label> <label class= "fanzei_rate"> 33%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 8
+</label> <label class= "rate"> 26%
+</label> </div>
+<div> <label class= "original"> 留赞 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 20%
+</label> <label class= "fanzei_rate"> 68%
+</label> <label class= "neijian_rate"> 8%
+</label> <label class= "times"> 168
+</label> <label class= "rate"> 40%
+</label> </div>
+<div> <label class= "original"> 郭照 </label> <label class= "zhugong_rate"> 35%
+</label> <label class= "zhongchen_rate"> 24%
+</label> <label class= "fanzei_rate"> 62%
+</label> <label class= "neijian_rate"> 7%
+</label> <label class= "times"> 165
+</label> <label class= "rate"> 42%
+</label> </div>
+<div> <label class= "original"> 樊玉凤 </label> <label class= "zhugong_rate"> 25%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 70%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 38
+</label> <label class= "rate"> 38%
+</label> </div>
+<div> <label class= "original"> 蒲元 </label> <label class= "zhugong_rate"> 29%
+</label> <label class= "zhongchen_rate"> 33%
+</label> <label class= "fanzei_rate"> 64%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 208
+</label> <label class= "rate"> 44%
+</label> </div>
+<div> <label class= "original"> 管辂 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 100%
+</label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 11
+</label> <label class= "rate"> 58%
+</label> </div>
+<div> <label class= "original"> 葛玄 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 25%
+</label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 10
+</label> <label class= "rate"> 45%
+</label> </div>
+<div> <label class= "original"> 刘辩 </label> <label class= "zhugong_rate"> 23%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 70
+</label> <label class= "rate"> 36%
+</label> </div>
+<div> <label class= "original"> 阮瑀 </label> <label class= "zhugong_rate"> 25%
+</label> <label class= "zhongchen_rate"> 38%
+</label> <label class= "fanzei_rate"> 64%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 39
+</label> <label class= "rate"> 45%
+</label> </div>
+<div> <label class= "original"> 王朗 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 50%
+</label> <label class= "fanzei_rate"> 89%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 18
+</label> <label class= "rate"> 57%
+</label> </div>
+<div> <label class= "original"> 潘淑 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 33%
+</label> <label class= "fanzei_rate"> 69%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 40
+</label> <label class= "rate"> 49%
+</label> </div>
+<div> <label class= "original"> 杨婉 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 25%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 11
+</label> <label class= "rate"> 36%
+</label> </div>
+<div> <label class= "original"> 李傕 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 27%
+</label> <label class= "fanzei_rate"> 77%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 31
+</label> <label class= "rate"> 45%
+</label> </div>
+<div> <label class= "original"> 张济 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 樊稠 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 郭汜 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张横 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 3
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 唐姬 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 梁兴 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 29%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 10
+</label> <label class= "rate"> 19%
+</label> </div>
+<div> <label class= "original"> 段煨 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 33%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 8
+</label> <label class= "rate"> 19%
+</label> </div>
+<div> <label class= "original"> 沙摩柯 </label> <label class= "zhugong_rate"> 22%
+</label> <label class= "zhongchen_rate"> 22%
+</label> <label class= "fanzei_rate"> 63%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 68
+</label> <label class= "rate"> 40%
+</label> </div>
+<div> <label class= "original"> 忙牙长 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 许贡 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 75%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 15
+</label> <label class= "rate"> 79%
+</label> </div>
+<div> <label class= "original"> 张昌蒲 </label> <label class= "zhugong_rate"> 13%
+</label> <label class= "zhongchen_rate"> 13%
+</label> <label class= "fanzei_rate"> 59%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 55
+</label> <label class= "rate"> 40%
+</label> </div>
+<div> <label class= "original"> 卑弥呼 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 100%
+</label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 10
+</label> <label class= "rate"> 25%
+</label> </div>
+<div> <label class= "original"> 卫温诸葛直 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 吕凯 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张恭 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 辛毗 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 伊籍 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张温 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 李肃 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 邢道荣 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 曹性 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 11%
+</label> <label class= "fanzei_rate"> 58%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 25
+</label> <label class= "rate"> 37%
+</label> </div>
+<div> <label class= "original"> 淳于琼 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 71%
+</label> <label class= "fanzei_rate"> 55%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 36
+</label> <label class= "rate"> 61%
+</label> </div>
+<div> <label class= "original"> 潘凤 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 14
+</label> <label class= "rate"> 53%
+</label> </div>
+<div> <label class= "original"> 牛金 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 靡芳傅士仁 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 张虎 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 董白 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 陆郁生 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 78%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 15
+</label> <label class= "rate"> 39%
+</label> </div>
+<div> <label class= "original"> 孙鲁育 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 华歆 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 4
+</label> <label class= "rate"> 67%
+</label> </div>
+<div> <label class= "original"> 杜夫人 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 南华老仙 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 韩遂 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 刘宏 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 38%
+</label> <label class= "fanzei_rate"> 48%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 41
+</label> <label class= "rate"> 38%
+</label> </div>
+<div> <label class= "original"> 朱儁 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 许劭 </label> <label class= "zhugong_rate"> 53%
+</label> <label class= "zhongchen_rate"> 25%
+</label> <label class= "fanzei_rate"> 73%
+</label> <label class= "neijian_rate"> 8%
+</label> <label class= "times"> 319
+</label> <label class= "rate"> 51%
+</label> </div>
+<div> <label class= "original"> 张让 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 30%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 38
+</label> <label class= "rate"> 66%
+</label> </div>
+<div> <label class= "original"> 何进 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 赵忠 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 何太后 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 75%
+</label> <label class= "neijian_rate"> 33%
+</label> <label class= "times"> 8
+</label> <label class= "rate"> 48%
+</label> </div>
+<div> <label class= "original"> 丁原 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 60%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 9
+</label> <label class= "rate"> 40%
+</label> </div>
+<div> <label class= "original"> 王荣 </label> <label class= "zhugong_rate"> 100%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 9
+</label> <label class= "rate"> 38%
+</label> </div>
+<div> <label class= "original"> 麹义 </label> <label class= "zhugong_rate"> 0%
+</label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 0%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 12
+</label> <label class= "rate"> 0%
+</label> </div>
+<div> <label class= "original"> 韩馥 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 陶谦 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 0%
+</label> <label class= "fanzei_rate"> 67%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 7
+</label> <label class= "rate"> 44%
+</label> </div>
+<div> <label class= "original"> 曹嵩 </label> <label class= "zhugong_rate"> 13%
+</label> <label class= "zhongchen_rate"> 33%
+</label> <label class= "fanzei_rate"> 69%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 72
+</label> <label class= "rate"> 44%
+</label> </div>
+<div> <label class= "original"> 张邈 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 丘力居 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> NA </label> <label class= "neijian_rate"> NA </label> <label class= "times"> 0
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 董承 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> 100%
+</label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> 0%
+</label> <label class= "times"> 6
+</label> <label class= "rate"> 86%
+</label> </div>
+<div> <label class= "original"> 胡车儿 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 100%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 1
+</label> <label class= "rate"> NA </label> </div>
+<div> <label class= "original"> 曹安民 </label> <label class= "zhugong_rate"> NA </label> <label class= "zhongchen_rate"> NA </label> <label class= "fanzei_rate"> 50%
+</label> <label class= "neijian_rate"> NA </label> <label class= "times"> 2
+</label> <label class= "rate"> NA </label> </div>
