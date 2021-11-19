@@ -22,7 +22,7 @@ button.addEventListener('click',updateCount);
 function updateCount(){
     //tianlao_label.textContent = data;
 
-    tianlao_label.textContent = '天牢外武将数：'+count;
+    tianlao_label.textContent = '天牢外武将 数：'+count;
 }
 
 function updateName() {
