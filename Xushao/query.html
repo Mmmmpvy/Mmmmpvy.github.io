@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>配置技能池</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <script src="./scripts/main.js"></script>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <!--#include file="/saleweb/npage/public_title_name.html" -->
+</head>
+<body onload="queryList()">
+<div class="c-row pdt-l pdb-l">
+    <div class="col-4">
+        <div class="c-form-item">
+            <p class="c-form-name">删除武将</p>
+            <div class="c-form-info">
+                <input type="text" name="tempName" id="wujiangToDelete"  list="batch_list" onfocus="this.value=''" onchange="this.blur();" autocomplete="off" placeholder="请输入" class="c-input"/>
+                <datalist id="batch_list">
+                </datalist>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-12" style="text-align: center; padding: 10px;">
+    <div class="c-form-item">
+        <button class="c-btn-l" onclick="deleteWujiang()">删去武将</button>
+        <button class="c-btn-l" onclick="resetJinengPool()" type="reset" id="btn_reset" onclick="resetWujiangToDelete()">重置</button>
+        <button class="c-btn-l" onclick="submitJinengPool()">提交变动</button>
+    </div>
+</div>
+
+<label id="jinengLackDisplay"></label>
+
+</body>
+</html>

@@ -1,5 +1,4 @@
 
-
 const para = document.querySelectorAll('.original');
 const rates= document.querySelectorAll('.rate');
 const zhugong_rates=document.querySelectorAll('.zhugong_rate');
@@ -126,4 +125,5 @@ function getResult(){
     res_details+="%";
     result_label.textContent=res;
     result_display_details.textContent=res_details;
+    window.open('new.html');
 }
