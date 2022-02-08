@@ -3,6 +3,14 @@ h1 {
     color: red;
 }
 
+button{
+  background-color: #DACC96;
+  border-radius: 3px;
+  color: #632626;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
 .special{
     color:orange;
     font-weight:bold;
@@ -226,7 +234,11 @@ form {
     grid-gap: 10px;
 }
 .jineng{
-  color:orange;
+  color:#9D5353;
+  font-weight:bold;
+}
+.jineng:hover{
+  color:#DACC96;
   font-weight:bold;
 }
 

@@ -786,7 +786,10 @@ function buildHtmlTable(selector,category) {
         break;
       
     }
-    headerTr$.append($('<th/>').html(headerText));
+    var cnt=0;
+    var headerCell=$('<th/>',{html:headerText});
+    headerTr$.append(headerCell);
+    var tmp_div=$('<div>');
     $(selector).append(headerTr$);
     for (var i = 0; i < myList.length; i++) {
       var row$ = $('<tr/>');
@@ -800,9 +803,11 @@ function buildHtmlTable(selector,category) {
         //row$.append( $('<a />', { class:"jineng", href: "", title: myList[i][columns[4]], html: cellValue}));
         cell.append($('<a />',{class:"jineng", id:i, title: myList[i][columns[4]], onclick:"deleteThis(this.id)",html:cellValue}));
         row$.append(cell);
+        cnt++;
       }
       $(selector).append(row$);
     }
+    headerCell.append('('+cnt+')');
   }
 
 function addAllColumnHeaders(myList, selector) {
