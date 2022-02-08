@@ -719,7 +719,7 @@ var wuJiangList=[
     {
       "ID": 5,
       "武将": "王荣",
-      "技能": "敏思"
+      "技能": ["敏思","吉境"]
     },
     {
       "ID": 6,
@@ -872,14 +872,19 @@ function getJinengbyWujiang(code) {
 function deleteWujiang(){
   var e =document.getElementById("wujiangToDelete");
   var res=getJinengbyWujiang(e.value);
-  if(res.length>0){
-    for (var i =0;i<res.length;i++){
-        for (var j=0;j<res[i]["技能"].length;j++){
-          var index = toDeleteList.indexOf(res[i]["技能"][j]); 
-          index === -1 ? toDeleteList.push(res[i]["技能"][j]) : console.log("object already exists")
-        }
-    } 
-      updateToDeleteDisplay();
+  if(res.length==1){
+    var x= res[0]["技能"]
+    if(x.constructor===Array){
+      for(var j=0;j<x.length;j++){
+        var index = toDeleteList.indexOf(res[0]["技能"][j]); 
+        index === -1 ? toDeleteList.push(res[0]["技能"][j]) : console.log("object already exists")
+      }
+    }else{
+        var index = toDeleteList.indexOf(res[0]["技能"]); 
+        index === -1 ? toDeleteList.push(res[0]["技能"]) : console.log("object already exists")
+    }
+    console.log(toDeleteList);
+    updateToDeleteDisplay();
   }else{
       alert("武将不存在！");
   }
