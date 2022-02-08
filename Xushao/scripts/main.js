@@ -3,6 +3,9 @@ $(document).ready(function () {
     init();  
 });
 
+document.oncontextmenu = function (event) {
+  event.preventDefault();
+};
 
 var JinengData =[
   {
@@ -743,6 +746,7 @@ var wuJiangList=[
 var myList =JSON.parse(JSON.stringify(JinengList));
 var toDeleteList=[];
 var rollbackList=[];
+var sortMethod=0;
 
 function init(){
   myList=JSON.parse(JSON.stringify(JinengList));
@@ -751,10 +755,19 @@ function init(){
   buildHtmlTable('#shoushangTable', 2);
 }
 
+function sortJineng(){
+  if(sortMethod==0){
+    myList.sort(function(a,b){return b.ID -a.ID});
+  }else {
+
+  }
+}
+
 function deleteThis(jinengID){
   rollbackList.push(myList[jinengID].ID);
   console.log(jinengID);
   myList.splice(jinengID,1);
+  
   buildHtmlTable('#huiheTable', 0);
   buildHtmlTable('#jieshuTable', 1);
   buildHtmlTable('#shoushangTable', 2);
@@ -797,11 +810,11 @@ function buildHtmlTable(selector,category) {
         if(myList[i][columns[2]]!=category){
           continue;
         }
-        var cell = $('<td/>');
+        var cell = $('<td/>',{class: "jinengCell"});
         var cellValue = myList[i][columns[colIndex]];
         if (cellValue == null) cellValue = "";
         //row$.append( $('<a />', { class:"jineng", href: "", title: myList[i][columns[4]], html: cellValue}));
-        cell.append($('<a />',{class:"jineng", id:i, title: myList[i][columns[4]], onclick:"deleteThis(this.id)",html:cellValue}));
+        cell.append($('<a />',{class:"jineng", id:i, title: myList[i][columns[4]], onclick:"deleteThis(this.id)",oncontextmenu:"addFocusedJineng(this.id)", html:cellValue}));
         row$.append(cell);
         cnt++;
       }
@@ -809,6 +822,10 @@ function buildHtmlTable(selector,category) {
     }
     headerCell.append('('+cnt+')');
   }
+
+function addFocusedJineng(id){
+  
+}
 
 function addAllColumnHeaders(myList, selector) {
     var columnSet = [];

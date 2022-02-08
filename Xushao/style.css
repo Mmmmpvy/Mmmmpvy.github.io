@@ -27,25 +27,7 @@ button{
 li em {
     color: rebeccapurple;
 }
-.backup {
-    font-family: sans-serif, '黑体';
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    text-align: center;
-    border: 2px solid rgba(0, 0, 200, 0.6);
-    background: rgba(0, 0, 200, 0.3);
-    color: rgba(0, 0, 200, 0.6);
-    box-shadow: 1px 1px 2px rgba(0, 0, 200, 0.4);
-    border-radius: 10px;
-    padding: 3px 10px;
-    display: inline-block;
-    cursor: pointer;
-}
 
-.original {
-    color:orange;
-    font-weight:bold;
-}
 
 table{
     margin:auto;
@@ -55,10 +37,17 @@ table{
     word-wrap: break-word;
 }
 
+.jinengCell{
+  background-color: #DACC96;
+  border: 1px solid #9D5353;
+  font-size: 18px;
+  width: auto;
+}
 th{
     margin:auto;
     text-align:center;
 		vertical-align: middle;
+    font-size: 18px;
 }
 tr{
     margin:auto;
@@ -69,51 +58,14 @@ body{
 }
 
 
-form {
-    /* 居中表单 */
-    margin: 0 auto;
-    width: 400px;
-    /* 显示表单的轮廓 */
-    padding: 1em;
-    border: 1px solid #CCC;
-    border-radius: 1em;
-  }
-  
-  ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  form li + li {
-    margin-top: 1em;
-  }
-  
-  form {
-    /* 居中表单 */
-    margin: 0 auto;
-    width: 400px;
-    /* 显示表单的轮廓 */
-    padding: 1em;
-    border: 1px solid #CCC;
-    border-radius: 1em;
-  }
-  
-  ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  form li + li {
-    margin-top: 1em;
-  }
-  
-  label {
+label {
     /* 确保所有label大小相同并正确对齐 */
     display: inline-block;
     width: 120 px;
     text-align: right;
+    color: #BF8B67;
+    font-size: 15px;
+    font-weight: normal;
   }
   
   input, textarea {
@@ -142,90 +94,10 @@ form {
     height: 5em;
   }
   
-  .button {
-    /* 把按钮放到和文本输入框一样的位置 */
-    padding-left: 90px; /* 和label的大小一样 */
-  }
-  
-  button {
-    /* 这个外边距的大小与label和文本输入框之间的间距差不多 */
-    margin-left: .5em;
-  }
 
-  .zhugong_rate{
-    color:darkred;
-  }
 
-  .zhongchen_rate{
-    color:darkorange;
-  }
 
-  .fanzei_rate{
-      color:darkgreen;
-  }
 
-  .neijian_rate{
-      color:darkcyan;
-  }
-  .result_display{
-    text-align:center;
-  }
-
-  .result_display_details{
-    text-align:center;
-  }
-
-  .popup {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-}
-
-/* The actual popup (appears on top) */
-.popup .popuptext {
-  visibility: hidden;
-  width: 160px;
-  background-color: #555;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 8px 0;
-  position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  margin-left: -80px;
-}
-
-/* Popup arrow */
-.popup .popuptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
-}
-
-/* Toggle this class when clicking on the popup container (hide and show the popup) */
-.popup .show {
-  visibility: visible;
-  -webkit-animation: fadeIn 1s;
-  animation: fadeIn 1s
-}
-
-/* Add animation (fade in the popup) */
-@-webkit-keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity: 1;}
-}
-
-@keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity:1 ;}
-}
 
 .wrapper {
     display: grid;
@@ -234,11 +106,11 @@ form {
     grid-gap: 10px;
 }
 .jineng{
-  color:#9D5353;
-  font-weight:bold;
+  color:#632626;
+  font-weight:normal;
 }
 .jineng:hover{
-  color:#DACC96;
+  color:#9D5353;
   font-weight:bold;
 }
 

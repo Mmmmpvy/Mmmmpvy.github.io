@@ -14,14 +14,15 @@
 
 
 <body onload="queryList()">
-  <button onclick="init()">重置</button>
+  <button onclick="init()">重置技能状态</button>
   <button onclick="rollback()">撤销</button>
+  <!--<button onclick="rollback()">重置重点技能</button> -->
   <div class="pool"> <div class="c-row pdt-l pdb-l">
     <div class="col-4">
         <div class="c-form-item">
             <p class="c-form-name"></p>
             <div class="c-form-info">
-                <input type="text" name="tempName" id="wujiangToDelete"  list="batch_list" onfocus="this.value=''" onchange="this.blur();" autocomplete="off" placeholder="请输入" class="c-input"/>
+                <input type="text" name="tempName" id="wujiangToDelete"  list="batch_list" onfocus="this.value=''" onchange="this.blur();" autocomplete="off" placeholder="请选择或自定义输入" class="c-input"/>
                 <datalist id="batch_list">
                 </datalist>
             </div>
