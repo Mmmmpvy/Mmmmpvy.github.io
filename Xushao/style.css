@@ -131,3 +131,13 @@ label {
   grid-column: 2;
   grid-row: 20;
 }
+
+.circle{
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  border-radius: 50%; 
+  display: inline-block;
+  margin-right: 5px;
+}
+

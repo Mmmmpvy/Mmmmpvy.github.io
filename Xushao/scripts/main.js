@@ -704,7 +704,7 @@ var wuJiangList=[
     {
       "ID": 2,
       "武将": "曹婴",
-      "技能": "凌人"
+      "技能": ["凌人","伏间"]
     },
     {
       "ID": 3,
@@ -872,9 +872,13 @@ function getJinengbyWujiang(code) {
 function deleteWujiang(){
   var e =document.getElementById("wujiangToDelete");
   var res=getJinengbyWujiang(e.value);
-  if(res.length==1){
-      var index = toDeleteList.indexOf(res[0]["技能"]); 
-      index === -1 ? toDeleteList.push(res[0]["技能"]) : console.log("object already exists")
+  if(res.length>0){
+    for (var i =0;i<res.length;i++){
+        for (var j=0;j<res[i]["技能"].length;j++){
+          var index = toDeleteList.indexOf(res[i]["技能"][j]); 
+          index === -1 ? toDeleteList.push(res[i]["技能"][j]) : console.log("object already exists")
+        }
+    } 
       updateToDeleteDisplay();
   }else{
       alert("武将不存在！");
