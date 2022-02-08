@@ -746,7 +746,7 @@ var wuJiangList=[
 var myList =JSON.parse(JSON.stringify(JinengList));
 var toDeleteList=[];
 var rollbackList=[];
-var sortMethod=0;
+var sortMethod=1;
 
 function init(){
   myList=JSON.parse(JSON.stringify(JinengList));
@@ -759,7 +759,7 @@ function sortJineng(){
   if(sortMethod==0){
     myList.sort(function(a,b){return b.ID -a.ID});
   }else {
-
+    myList.sort(function(a,b){return a["技能"].localeCompare(b["技能"])});
   }
 }
 
@@ -783,7 +783,9 @@ function rollback(){
   }
 }
 function buildHtmlTable(selector,category) {
+    
     $(selector).empty();
+    sortJineng();
     var columns = addAllColumnHeaders(myList, selector);
     var headerTr$ = $('<tr/>');
     var headerText="";
