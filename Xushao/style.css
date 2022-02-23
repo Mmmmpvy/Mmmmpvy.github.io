@@ -1,0 +1,143 @@
+
+h1 {
+    color: red;
+}
+
+button{
+  background-color: #DACC96;
+  border-radius: 3px;
+  color: #632626;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.special{
+    color:orange;
+    font-weight:bold;
+}
+
+.special:hover{
+    color:pink
+}
+
+.selected{
+    color:pink
+}
+
+li em {
+    color: rebeccapurple;
+}
+
+
+table{
+    margin:auto;
+    text-align:center;
+    table-layout:fixed;
+    word-break: break-all; 
+    word-wrap: break-word;
+}
+
+.jinengCell{
+  background-color: #DACC96;
+  border: 1px solid #9D5353;
+  font-size: 18px;
+  width: auto;
+}
+th{
+    margin:auto;
+    text-align:center;
+		vertical-align: middle;
+    font-size: 18px;
+}
+tr{
+    margin:auto;
+    text-align:center;
+}
+body{
+    text-align:center;
+}
+
+
+label {
+    /* 确保所有label大小相同并正确对齐 */
+    display: inline-block;
+    width: 120 px;
+    text-align: right;
+    color: #BF8B67;
+    font-size: 15px;
+    font-weight: normal;
+  }
+  
+  input, textarea {
+    /* 确保所有文本输入框字体相同
+       textarea默认是等宽字体 */
+    font: 1em sans-serif;
+  
+    /* 使所有文本输入框大小相同 */
+    width: 300px;
+    box-sizing: border-box;
+  
+    /* 调整文本输入框的边框样式 */
+    border: 1px solid #999;
+  }
+  
+  input:focus, textarea:focus {
+    /* 给激活的元素一点高亮效果 */
+    border-color: #000;
+  }
+  
+  textarea {
+    /* 使多行文本输入框和它们的label正确对齐 */
+    vertical-align: top;
+  
+    /* 给文本留下足够的空间 */
+    height: 5em;
+  }
+  
+
+
+
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    grid-gap: 10px;
+}
+.jineng{
+  color:#632626;
+  font-weight:normal;
+}
+.jineng:hover{
+  color:#9D5353;
+  font-weight:bold;
+}
+
+.table1{
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.table2{
+  grid-column: 2;
+  grid-row: 1;
+}
+.table3{
+  grid-column: 3;
+  grid-row: 1;
+}
+.pool{
+  grid-column: 2;
+  grid-row: 20;
+}
+
+.circle{
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  border-radius: 50%; 
+  display: inline-block;
+  margin-right: 5px;
+}
+
